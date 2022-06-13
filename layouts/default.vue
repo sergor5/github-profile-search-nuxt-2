@@ -8,6 +8,7 @@
       min-h-screen
       bg-gray-100
       sm:items-center sm:pt-0
+      dark:bg-gray-800 dark:text-white
     "
   >
     <!-- <Navbar /> -->
