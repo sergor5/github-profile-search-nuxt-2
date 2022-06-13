@@ -1,5 +1,8 @@
 <template>
-  <Tutorial />
+  <div>
+    <SearchBar />
+    <Tutorial />
+  </div>
 </template>
 
 <script>
